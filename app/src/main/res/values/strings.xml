@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="leftImageDescription">Gif from developer.ru</string>
+    <string name="tempText">TextView</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
